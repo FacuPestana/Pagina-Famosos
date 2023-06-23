@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(150, 255, 30) ;
+    color: rgb(0, 0, 0);
+    margin-left:7px;
+    font-family: 'Pacifico', cursive;
+   }
+
+.Titulos{
+    width: 450px;
+}
+
+.Padres{
+    width: 550px;
+}
+
+.Wimbledon{
+    width: 550px;
+}
+
+.Esposa{
+    width:650px;
+}
